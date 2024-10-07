@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E435D51-0DBB-42B8-9278-6FEB61EDBF43}|Zork\\Zork.csproj|c:\\users\\mtgl1\\onedrive\\escritorio\\week 6\\week 7\\zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E435D51-0DBB-42B8-9278-6FEB61EDBF43}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E435D51-0DBB-42B8-9278-6FEB61EDBF43}|Zork\\Zork.csproj|c:\\users\\mtgl1\\onedrive\\escritorio\\week 6\\week 7\\zork\\zork\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E435D51-0DBB-42B8-9278-6FEB61EDBF43}|Zork\\Zork.csproj|solutionrelative:zork\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E435D51-0DBB-42B8-9278-6FEB61EDBF43}|Zork\\Zork.csproj|c:\\users\\mtgl1\\onedrive\\escritorio\\week 6\\week 7\\zork\\zork\\scripts\\hello.csx||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E435D51-0DBB-42B8-9278-6FEB61EDBF43}|Zork\\Zork.csproj|solutionrelative:zork\\scripts\\hello.csx||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hello.csx",
+              "DocumentMoniker": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\Zork\\Scripts\\Hello.csx",
+              "RelativeDocumentMoniker": "Zork\\Scripts\\Hello.csx",
+              "ToolTip": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\Zork\\Scripts\\Hello.csx",
+              "RelativeToolTip": "Zork\\Scripts\\Hello.csx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T02:51:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\Zork\\Game.cs",
+              "RelativeDocumentMoniker": "Zork\\Game.cs",
+              "ToolTip": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\Zork\\Game.cs",
+              "RelativeToolTip": "Zork\\Game.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA4wCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:47:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\Zork\\Program.cs",
+              "RelativeDocumentMoniker": "Zork\\Program.cs",
+              "ToolTip": "C:\\Users\\MTGL1\\OneDrive\\Escritorio\\Week 6\\Week 7\\Zork\\Zork\\Program.cs",
+              "RelativeToolTip": "Zork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:10:44.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
